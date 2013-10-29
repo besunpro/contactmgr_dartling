@@ -9,11 +9,11 @@ abstract class ContactGen extends ConceptEntity<Contact> {
   String get lastname => getAttribute("lastname"); 
   set lastname(String a) => setAttribute("lastname", a); 
   
-  String get firstmane => getAttribute("firstmane"); 
-  set firstmane(String a) => setAttribute("firstmane", a); 
+  String get firstname => getAttribute("firstname"); 
+  set firstname(String a) => setAttribute("firstname", a); 
   
-  num get telephone => getAttribute("telephone"); 
-  set telephone(num a) => setAttribute("telephone", a); 
+  String get telephone => getAttribute("telephone"); 
+  set telephone(String a) => setAttribute("telephone", a); 
   
   String get email => getAttribute("email"); 
   set email(String a) => setAttribute("email", a); 

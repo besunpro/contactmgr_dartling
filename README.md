@@ -44,10 +44,3 @@ Brice
 
 **Start**:
 Clone the project and open it with Dart Editor.
-
-
-
-
-
-
-

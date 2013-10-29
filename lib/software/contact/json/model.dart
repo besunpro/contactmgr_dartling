@@ -38,7 +38,7 @@ var softwareContactModelJson = r'''
                 },
                 {
                     "sequence":30,
-                    "name":"firstmane",
+                    "name":"firstname",
                     "category":"attribute",
                     "type":"String",
                     "init":"",
@@ -49,7 +49,7 @@ var softwareContactModelJson = r'''
                     "sequence":40,
                     "name":"telephone",
                     "category":"attribute",
-                    "type":"num",
+                    "type":"String",
                     "init":"",
                     "essential":true,
                     "sensitive":false
